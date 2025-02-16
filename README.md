@@ -11,11 +11,11 @@ What you can expect:
    ![DAS generated meteor](das-demo-generation.png "a title")
 2. Its individual resolutions looking like this after generation:
    ![DAS generated meteor](das-demo-resolutions.png "a title")
-3. And its power spectrum as so:
-   ![DAS generated meteor](das-demo-spectrum.png "a title")
-5. To showcase generation diversity, 4 generations of the `a beautiful photo of Antelope Canyon’s light beams, detailed`
+3. To showcase generation diversity, 4 generations of the `a beautiful photo of Antelope Canyon’s light beams, detailed`
    ![DAS generated meteor](das-demo-many-generations.png "a title")
-6. Combining a source image of an SF skyline at night with the Van Gogh "The Starry Night"
+4. Combining a source image of an SF skyline at night with the Van Gogh "The Starry Night"
    ![DAS generated meteor](das-demo-style.png "a title")
-7. And finally reconstructing an image of Henry VIII from its CLIP embedding:
+5. And finally reconstructing an image of Henry VIII from its CLIP embedding:
    ![DAS generated meteor](das-demo-reconstructed.png "a title")
+6. Get a spectrum of a generated image:
+   ![DAS generated meteor](das-demo-spectrum.png "a title")
