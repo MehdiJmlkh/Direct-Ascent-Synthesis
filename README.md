@@ -19,3 +19,17 @@ What you can expect:
    ![DAS generated meteor](das-demo-reconstructed.png "a title")
 6. Get a spectrum of a generated image:
    ![DAS generated meteor](das-demo-spectrum.png "a title")
+
+If you find this useful and would you like to cite us, please use the following bibtex
+
+```
+@misc{fort2025directascentsynthesisrevealing,
+      title={Direct Ascent Synthesis: Revealing Hidden Generative Capabilities in Discriminative Models}, 
+      author={Stanislav Fort and Jonathan Whitaker},
+      year={2025},
+      eprint={2502.07753},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2502.07753}, 
+}
+```
