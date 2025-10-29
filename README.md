@@ -25,9 +25,9 @@ What you can expect:
 
 5. And finally reconstructing an image from its CLIP embedding:
 
-   ![DAS generated meteor](das-demo-reconstructed.png "reconstruction")
+   ![DAS generated meteor](figures/das-demo-reconstructed.png "reconstruction")
 
 6. Get a spectrum of a generated image:
 
-   ![DAS generated meteor](das-demo-spectrum.png "a title")
+   ![DAS generated meteor](figures/das-demo-spectrum.png "a title")
 
