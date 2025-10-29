@@ -1,7 +1,7 @@
 # Direct Ascent Synthesis: Revealing Hidden Generative Capabilities in Discriminative Models
 A demo for the Direct Ascent Synthesis: Revealing Hidden Generative Capabilities in Discriminative Models paper (https://arxiv.org/abs/2502.07753)
 
-[This Colab](https://github.com/stanislavfort/Direct_Ascent_Synthesis/blob/main/Direct_Ascent_Synthesis_generation_demo.ipynb) demonstrates
+[This notebook](https://github.com/MehdiJmlkh/Direct-Ascent-Synthesis/blob/main/Direct-Ascent-Synthesis-generation-demo.ipynb) demonstrates
 1. Text to image generation
 2. "Style" transfer
 3. Image reconstruction from its CLIP embedding
@@ -23,11 +23,11 @@ What you can expect:
 
    ![DAS generated meteor](figures/das-demo-style.png "style transfer")
 
-5. And finally reconstructing an image from its CLIP embedding:
+5. Reconstructing an image from its CLIP embedding:
 
    ![DAS generated meteor](figures/das-demo-reconstructed.png "reconstruction")
 
-6. Get a spectrum of a generated image:
+6. And finally inpainting for `a vast night sky filled with countless twinkling stars` looking like this:
 
-   ![DAS generated meteor](figures/das-demo-spectrum.png "a title")
+   ![DAS generated meteor](figures/das-demo-inpainting.png "inpainting")
 
