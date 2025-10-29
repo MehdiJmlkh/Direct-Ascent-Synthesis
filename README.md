@@ -1,5 +1,5 @@
 # Direct Ascent Synthesis: Revealing Hidden Generative Capabilities in Discriminative Models
-A demo for the Direct Ascent Synthesis: Revealing Hidden Generative Capabilities in Discriminative Models paper (https://arxiv.org/abs/2502.07753)
+A cleaned and improved version of the original demo for the Direct Ascent Synthesis: Revealing Hidden Generative Capabilities in Discriminative Models paper (https://arxiv.org/abs/2502.07753)
 
 [This notebook](https://github.com/MehdiJmlkh/Direct-Ascent-Synthesis/blob/main/Direct-Ascent-Synthesis-generation-demo.ipynb) demonstrates
 1. Text to image generation
